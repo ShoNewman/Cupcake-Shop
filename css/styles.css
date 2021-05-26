@@ -1,0 +1,15 @@
+.flashy {
+  font-style: italic;
+  color: red;
+  font-weight: bold;
+}
+img {
+  width: 200px;
+  height: auto;
+}
+.best {
+  font-style:  oblique;
+  color: blueviolet;
+  font-weight: bolder;
+  font-size: xx-large;
+}

@@ -1,6 +1,6 @@
 .flashy {
   font-style: italic;
-  color: red;
+  color: rgb(157, 219, 219);
   font-weight: bold;
 }
 img {
@@ -12,4 +12,18 @@ img {
   color: blueviolet;
   font-weight: bolder;
   font-size: xx-large;
+}
+.intro {
+  background-color: rgb(132, 118, 145);
+  border: 2px rgb(77, 37, 114) solid;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+.list {
+  padding: 10%;
+  border: 2px rgb(61, 44, 77) solid;
+}
+.list li {
+  padding: 10%;
 }

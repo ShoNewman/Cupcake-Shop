@@ -2,7 +2,7 @@
 
 #### _A online shop to buy your cupcakes for delivery to your home_
 
-#### By _**By Shoshana Newman and Adrian Camacho**_
+#### By _**Shoshana Newman and Adrian Camacho**_
 
 ## Technologies Used
 
